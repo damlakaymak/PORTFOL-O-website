@@ -9,4 +9,4 @@ PORTFOLİO WEBSİTE
 
 --GİF
 
-<img src="screen.mp4"/>
+<img src="screen (3).gif"/>
